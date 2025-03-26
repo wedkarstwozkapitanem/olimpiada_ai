@@ -1,4 +1,4 @@
-Te repozytorium zawiera implementacje i rozwiązania olimpiady sztucznej inteligencji(AI) zapisane w plikach jupyter, które wchodzą na niezerową liczbę punktów
+# Te repozytorium zawiera implementacje i rozwiązania modeli olimpiady sztucznej inteligencji(AI) zapisane w plikach jupyter, które wchodzą na niezerową liczbę punktów
 # 1.Maszynka do Liczenia Monet
 # 2.Wykrywanie Halucynacji
 # 3.Wykrywanie Zaburzeń Sygnału EKG
